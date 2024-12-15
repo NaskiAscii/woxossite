@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'VGA Classic';
+  src: url('fonts/Perfect DOS VGA 437.ttf') format('truetype');
+}
+
+body {
+  font-family: 'VGA Classic', monospace;
+}
